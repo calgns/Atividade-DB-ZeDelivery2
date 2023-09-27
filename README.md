@@ -7,6 +7,7 @@ Numero e completmento para as outras tabelas que tem endereço, pois, numero pod
 
 Oque Você achou do meu desing?
 Conversei um pouco com o pessoal de DB aqui e eles falaram que NoSQL não esta sendo usado pelo mercado ainda, pois, curva de aprendizagem maior, volatil, não ter relaciomento, interligado e que a escalabilidade não vale tanto a pena se considerar isso, o que acha?
+Por ter melhorado a tabela e te dado uma resposta sobre NoSQL, mereço ponto extra né?
 
 ![IMG](./zedelivery-LOGICO.drawio.png)
 
